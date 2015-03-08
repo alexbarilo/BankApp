@@ -1,0 +1,64 @@
+#client-buttons-div {
+    position: absolute;
+}
+
+.client-button {
+    height: 25px;
+    width: 94px;
+}
+
+.client-button-show-details {
+    position: absolute;
+    top: 30px;
+    height: 25px;
+    width: 290px;
+}
+
+#client-selection-div {
+    position: absolute;
+    top: 70px;
+}
+
+#client-account-div {
+    left: 310px;
+    position: absolute;
+}
+
+#client-details-div {
+    height: 60px;
+    width: 863px;
+    background-color: lightgrey;
+}
+
+.show-account-button {
+    width: 140px;
+}
+
+.account-button {
+    width: 125px;
+}
+
+#account-transaction-details-div {
+    top: 90px;
+    left: 310px;
+    position: absolute;
+}
+
+#account-details-div {
+    height: 80px;
+    background-color: lightgrey;
+}
+
+#transaction-table {
+    border-collapse: collapse;
+}
+
+#transaction-table tr th {
+    border: 2px solid black;
+    width: 140px;
+}
+
+#transaction-table tr td {
+    border: 1px solid black;
+    text-align: center;
+}
